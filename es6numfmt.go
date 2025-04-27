@@ -19,7 +19,7 @@
 // The core application for this is canonicalization:
 // https://tools.ietf.org/html/draft-rundgren-json-canonicalization-scheme-02
 
-package main
+package jsoncanonicalizer
 
 import (
 	"errors"

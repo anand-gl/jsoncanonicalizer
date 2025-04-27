@@ -17,7 +17,7 @@
 // This program tests the JSON number serializer using both a few discrete
 // values as well as the 100 million value test suite
 
-package main
+package jsoncanonicalizer
 
 import (
 	"bufio"

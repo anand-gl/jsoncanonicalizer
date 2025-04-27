@@ -17,7 +17,7 @@
 // This program verifies the JSON canonicalizer using a test suite
 // containing sample data and expected output
 
-package main
+package jsoncanonicalizer
 
 import (
 	"bytes"

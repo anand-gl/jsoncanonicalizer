@@ -16,7 +16,7 @@
 
 // This package transforms JSON data in UTF-8 according to:
 // https://tools.ietf.org/html/draft-rundgren-json-canonicalization-scheme-02
-package main
+package jsoncanonicalizer
 
 import (
 	"container/list"
